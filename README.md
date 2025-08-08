@@ -27,8 +27,10 @@ Minimize travel distance for pickers fulfilling 10 random orders in a warehouse 
 | Optimized Route   | [Your Optimized] |
 | Improvement       | [Your %]         |
 
-![Warehouse Routes](warehouse_plot.png)
-![Results Table](results_table.png)
+![Warehouse Routes](<img width="600" height="200" alt="Figure_1" src="https://github.com/user-attachments/assets/5f94b825-9dc1-4333-a42c-5ef4cbaf4522" />)
+
+![Results Table](<img width="1536" height="754" alt="Figure_2" src="https://github.com/user-attachments/assets/8745d10e-e5fb-437f-92eb-8ca8f45fea20" />)
+
 ![Greedy Algorithm](code_snippet.png)
 
 ## Tools
